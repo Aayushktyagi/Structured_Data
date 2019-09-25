@@ -12,3 +12,17 @@ Notebook Covers following
 - Regularizing Neural network using Early stopping
 - Model Evaluation and prediction
 
+## Heart Disease Classification
+It is baseline classification problem using [Heart dataset](https://storage.googleapis.com/applied-dl/heart.csv)
+Notebook Covers following
+- Loading dataset from csv file
+- Converting DataFrame to tensor
+- Feature handling
+  - Numeric feature column
+  - Buckedized feature column
+  - Categorical column
+  - Embedding feature column
+  - Cross feature columns
+- Training Neural network 
+- Model evaluation
+
